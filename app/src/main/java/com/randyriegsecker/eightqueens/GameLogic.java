@@ -83,6 +83,7 @@ public class GameLogic {
         }
 
         // check for invalid positions
+        // This is nightmarish and inefficient brute force code but gets the job done.
         for (c = 0; c < 8; c++) {
             for (r = 0; r < 8; r++) {
                 for (cD = 0; cD < 8; cD++) {
