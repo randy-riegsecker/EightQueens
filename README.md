@@ -2,6 +2,9 @@
 
 The **Eight Queens** Puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other.  In other words, the solution requires that no two queens share the same row, column, or diagonal.  There are 92 different solutions.
 
+The problem was first posed in the mid-19th century. In the modern era, it is often used as an example problem for computer programming.  While there are
+many programs on the Internet that solve the problem algorithmically and recursively, there are very few puzzle games for you to actually try it yourself.
+
 ## Playing the Game
 Add and remove queens on the chessboard to solve the puzzle.  To place or remove a queen from a square, click on that square.  You can only have up to eight queens on the board at any given time, and the counter shows you how many are placed.
 
