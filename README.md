@@ -18,6 +18,8 @@ To win the game, you need to figure out how to place the eight queens on the che
 ## Technical Details
 The code is written in Java and the application was developed using Android Studio.  The application demonstrates the use of Canvas and Paint classes for drawing on the screen, along with creating the chessboard as a custom element.
 
+Thanks to [https://www.youtube.com/@PracticalCoding](https://www.youtube.com/@PracticalCoding) for a thorough YouTube Tic-Tac-Toe game tutorial that provided the guidance to complete this project.
+ 
 I'd love to hear from you!  Happy Gaming!
 
 Randy Riegsecker
