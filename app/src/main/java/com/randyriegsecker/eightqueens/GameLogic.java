@@ -121,10 +121,6 @@ public class GameLogic {
 
     public boolean checkWinner() {
 
-        Log.d("EightQueens", "game.checkWinner called.");
-        Log.d("EightQueens", "Queens on board " + String.valueOf(queensOnBoard));
-
-        // == 8 is the real number
         if (queensOnBoard == 8 && invalidPlacement() == false) {
             Log.d("EightQueens", "game.checkWinner TRUE.");
             puzzleSolved = true;
