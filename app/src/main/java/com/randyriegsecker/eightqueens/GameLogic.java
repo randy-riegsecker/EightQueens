@@ -31,16 +31,6 @@ public class GameLogic {
 
     public boolean updateGameBoard(int row, int col) {
 
-//         return false if all there are eight queens on the board
-//          and you try to add 9th
-//        if( gameBoard[row-1][col-1] == 0 ) && there are less than 8 queens {
-//            gameBoard[row-1][col-1] = player;
-//            return true;
-//
-//        } else {
-//            return false;
-//        }
-
         if (gameBoard[row - 1][col - 1] == 0 && queensOnBoard < 8) {
             gameBoard[row - 1][col - 1] = 1;
             ++queensOnBoard;
@@ -49,8 +39,6 @@ public class GameLogic {
             --queensOnBoard;
         }
         queenCount.setText("Queens Placed: " + String.valueOf(queensOnBoard));
-
-        // checkWinner();
 
         // check for attack positions
         invalidPlacement();
