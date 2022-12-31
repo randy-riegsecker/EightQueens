@@ -3,7 +3,6 @@ package com.randyriegsecker.eightqueens;
 // Author: Randy Riegsecker
 // Date: 2022/12/31
 // Eight Queens Game game logic
-// This is the title screen for the first activity
 // https://github.com/randy-riegsecker/EightQueens
 
 import android.util.Log;
