@@ -9,10 +9,10 @@ As a hint, the chess board squares squares turn red if you've place queens is in
 
 RESET BOARD is used to clear the chess board.
 
-## Completing the Puzzle
-To win the game, you need to figure out how to place the eight queens on the chess board.  When you've found a solution to the puzzle, the squares with the queens turn green and the game ends!  RESET BOARD clears the board for a new game.
+## Winning the Game
+To win the game, you need to figure out how to place the eight queens on the chess board.  When you've found a solution to the puzzle, the squares with the eight correctly placed queens turn green and the game ends!  RESET BOARD clears the board for a new game.
 
-### Technical Details
+## Technical Details
 The code is written in Java and the application was developed using Android Studio.  The application demonstrates the use of Canvas and Paint classes for drawing on the screen, along with creating the chessboard as a custom element.
 
 I'd love to hear from you!  Happy Gaming!
