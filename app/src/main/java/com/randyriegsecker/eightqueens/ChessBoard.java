@@ -3,7 +3,7 @@ package com.randyriegsecker.eightqueens;
 // Author: Randy Riegsecker
 // Date: 2022/12/31
 // Eight Queens Game
-// This is the chess board drawing
+// This is the chess board drawing class
 // https://github.com/randy-riegsecker/EightQueens
 
 import android.content.Context;
