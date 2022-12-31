@@ -11,10 +11,12 @@ Happy Gaming!
 Randy Riegsecker
 
 ## Title Screen
-![Eight Queens Title Screen](https://user-images.githubusercontent.com/120612915/210157010-e4be28a1-edf2-40e1-a10c-09f9e8ef875c.png)
+![Eight Queens Title Screen](https://user-images.githubusercontent.com/120612915/210157303-66f67eb8-b0e4-4219-ad8f-86c7c72ca460.png)
+
 
 ## Game Screen
-![Game Screen](https://user-images.githubusercontent.com/120612915/210157008-4390f7ca-45ad-4854-9fbe-4bfa7a2fa8d9.png)
+![Eight Queens Title Screen](https://user-images.githubusercontent.com/120612915/210157309-520a8538-6f2f-4666-8bca-7af94d768cb1.png)
+
 
 
 
