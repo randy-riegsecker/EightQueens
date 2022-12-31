@@ -3,17 +3,19 @@
 The **Eight Queens** Puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other.  In other words, the solution requires that no two queens share the same row, column, or diagonal.  There are 92 different solutions.
 
 ## Playing the Game
-Add and remove queens to the chess board to solve the puzzle.  To place or remove a queen from a square, click on that square.  
+Add and remove queens to the chess board to solve the puzzle.  To place or remove a queen from a square, click on that square.  You can only have up to eight queens on the board at any given time, and the counter shows you how many are placed.
 
-As a hint of incorrect placement of queens, the chess board squares squares turn red if there are queens is in a threatening position (they share the same column, row, or diagonal).
+As a hint, the chess board squares squares turn red if you've place queens is in a threatening position with another queen (they share the same column, row, or diagonal).
+
+RESET BOARD is used to clear the chess board.
 
 ## Completing the Puzzle
-To win the game, you need to figure out how to place the eight queens on the chess board.  When you've found a solution to the puzzle, the squares with the queens turn green and the game ends!
+To win the game, you need to figure out how to place the eight queens on the chess board.  When you've found a solution to the puzzle, the squares with the queens turn green and the game ends!  RESET BOARD clears the board for a new game.
 
 ### Technical Details
 The code is written in Java and the application was developed using Android Studio.  The application demonstrates the use of Canvas and Paint classes for drawing on the screen, along with creating the chessboard as a custom element.
 
-Happy Gaming!
+I'd love to hear from you!  Happy Gaming!
 
 Randy Riegsecker
 
