@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChessBoard">
+        <attr name="darkSquare" format="color"/>
+        <attr name="lightSquare" format="color"/>
+        <attr name="chessPiece" format="color"/>
+        <attr name="boardColor" format="color"/>
+        <attr name="redSquare" format="color"/>
+        <attr name="greenSquare" format="color"/>
+    </declare-styleable>
+</resources>
