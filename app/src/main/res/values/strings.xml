@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Eight Queens</string>
-    <string name="github_link">Learn more about Eight Queens at\n<a href="https://github.com/randy-riegsecker/EightQueens">https://github.com/randy-riegsecker/</a></string>
+    <string name="github_link">To learn how to play Eight Queens, visit \n<a href="https://github.com/randy-riegsecker/EightQueens">https://github.com/randy-riegsecker/EightQueens</a></string>
     <string name="eight_queens_title">Eight Queens</string>
 </resources>
