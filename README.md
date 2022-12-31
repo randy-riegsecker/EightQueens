@@ -4,9 +4,7 @@ The **Eight Queens** Puzzle is the problem of placing eight chess queens on an 8
 
 As you play, the squares turn red if another queen is in an attack position.  To win the game, you need to figure out how to place the eight queens on the board.  There are 92 solutions.
 
-Good luck seeing if you might be the next Jeopardy champion!
-
-The code is written in Java and the application was developed using Android Studio.  The application demonstrates the use of Canvas and Paint classes for drawing on the screen.
+The code is written in Java and the application was developed using Android Studio.  The application demonstrates the use of Canvas and Paint classes for drawing on the screen, along with creating the chessboard as a custom element.
 
 Happy Gaming!
 
