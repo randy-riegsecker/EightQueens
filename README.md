@@ -16,7 +16,7 @@ Randy Riegsecker
 
 
 ## Game Screen
-![Eight Queens Title Screen](https://user-images.githubusercontent.com/120612915/210157309-520a8538-6f2f-4666-8bca-7af94d768cb1.png)
+![Eight Queens Game Screen](https://user-images.githubusercontent.com/120612915/210157342-d257b7c4-38fd-4dda-b653-364647009d31.png)
 
 
 
