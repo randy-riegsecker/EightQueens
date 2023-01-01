@@ -1,16 +1,16 @@
-# Eight Queens
+# Eight Queens Puzzle Game
 
-The **Eight Queens** Puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other.  In other words, the solution requires that no two queens share the same row, column, or diagonal.  There are 92 different solutions.
+![ic_launcher_round](https://user-images.githubusercontent.com/120612915/210158184-c2e59bce-b749-4ba8-9473-6627bef874a8.png) The **Eight Queens** Puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other.  In other words, the solution requires that no two queens share the same row, column, or diagonal.  There are 92 different solutions.
 
 The problem was first posed in the mid-19th century. In the modern era, it is often used as an example problem for computer programming.  While there are
 many programs on the Internet that solve the problem algorithmically and recursively, there are very few puzzle games for you to actually try it yourself.
 
 ## Playing the Game
-Add and remove queens on the chessboard to solve the puzzle.  To place or remove a queen from a square, click on that square.  You can only have up to eight queens on the board at any given time, and the counter shows you how many are placed.
+You start by adding and removing queens on the chessboard to solve the puzzle.  To place or remove a queen from a square, click on that square.  You can only have up to eight queens on the board at any given time, and the counter shows you how many are placed.
 
-As a hint, the chessboard squares squares turn red if you've placed a queen in a threatening position with another queen (they share the same column, row, or diagonal).
+While playing, the chessboard squares turn red if you've placed queens in a threatening position with another queen (they share the same column, row, or diagonal).  This provides a hint that you need to change the position of at least one queen.
 
-RESET BOARD is used to clear the chess board.
+If you want to clear the chessboard, use the RESET BOARD button.
 
 ## Winning the Game
 To win the game, you need to figure out how to place the eight queens on the chess board.  When you've found a solution to the puzzle, the squares with the eight correctly placed queens turn green and the game ends!  RESET BOARD clears the board for a new game.
